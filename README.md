@@ -22,6 +22,7 @@ Our projects are free and open source. We adopt a collaborative product developm
 
 ## List of project ideas
 Browse [all the project ideas](https://github.com/NewTunisia/project-ideas/issues)
+
 If you are interested in a project, you can write comments and participate in the implementation.
 
 ## Make people talk about us
